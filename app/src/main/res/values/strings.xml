@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Quiz Application</string>
+    <string name="it_s_boring">It\'s Boring</string>
+    <string name="_5_what_do_you_think_of_udacity">5. What do you think of Udacity</string>
+    <string name="updating">Updating</string>
+    <string name="_1_os_computer_abbreviation_usually_means">1. \'OS\' computer abbreviation usually means ?</string>
+    <string name="open_source">Open Source</string>
+    <string name="optical_sensors">Optical Sensors</string>
+    <string name="_2_which_of_the_following_is_not_a_logical_data_base_structure">2. Which of the following is not a logical data-base structure?</string>
+    <string name="chain">Chain</string>
+    <string name="tree">Tree</string>
+    <string name="network">Network</string>
+    <string name="relational">Relational</string>
+    <string name="_3_what_is_the_language_used_by_most_of_the_dbmss_for_helping_their_users_to_access_data">3. What is the language used by most of the DBMSs for helping their users to access data?</string>
+    <string name="high_level_language">High level language</string>
+    <string name="_4_periodically_adding_changing_and_deleting_file_records_is_called_file">4. Periodically adding, changing and deleting file records is called file</string>
+    <string name="upgrading">Upgrading</string>
+    <string name="restructuring">Restructuring</string>
+    <string name="renewing">Renewing</string>
+    <string name="it_s_fun">It\'s Fun</string>
+    <string name="submit_answers">Submit_answers</string>
+    <string name="sql">SQL</string>
+    <string name="query_language">Query language</string>
+    <string name="operating_system">Operating System</string>
+</resources>
